@@ -5,7 +5,7 @@
 Hi there! I'm <b>Jony Sagor</b>. I'm a passionate MERN Stack Developer with a strong focus on <b>Full Stack Development</b>. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding,I am <b>Spicy Puffed Rice (jhalmuri) and Tea </b> lover .
 
 
-<h3>When I code, I rely on</h3>
+## Skills
 
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
