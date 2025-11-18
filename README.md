@@ -1,4 +1,4 @@
-   <!-- <img alt="html5" src="./assets/banner1.png" /> -->
+<img align=”right” alt=”Coding” width=”400” src="./Banner.png"/>
 
 ## About Me 
 
