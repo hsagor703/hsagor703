@@ -29,19 +29,6 @@ Hi there! I'm <b>Jony Shagor</b>. I'm a passionate MERN Stack Developer with a s
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsagor703&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsagor703&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)  | [![GitHub Streak](https://streak-stats.demolab.com?user=hsagor703&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsagor703&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsagor703&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hsagor703&theme=dark)
-
-
-
-
-
-
 ## Contact
 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/jonyshagor703/)
 
